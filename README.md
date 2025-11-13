@@ -1,2 +1,1 @@
-# example-oroject
-# HTML-Project
+# academy-full stack developer
